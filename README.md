@@ -7,7 +7,7 @@ Equipo E__ · Análisis de Datos Básico · Estud-IA (Capa 2)
 ## Ficha del proyecto · versión 1
 
 ### 1. Usuario y decisión
-> ¿Quién usará el resultado (una persona o un área) y qué va a decidir con él?
+> Gerentes comerciales y directores de ventas de empresas constructoras en Medellín. Determinar si es necesario ajustar las estrategias comerciales, los precios y los incentivos de compra para mejorar las ventas de vivienda nueva.
 
 Escribe aquí.
 
