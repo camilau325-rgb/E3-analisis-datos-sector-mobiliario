@@ -17,7 +17,7 @@ Escribe aquí.
 Escribe aquí.
 
 ### 3. Fuente de datos
-> Enlace o nombre de la fuente. ¿Es pública o es una muestra de práctica inventada (sintética)? Si es inventada, dilo aquí.
+> Muestra sintetica
 
 Escribe aquí.
 
