@@ -22,12 +22,12 @@ Escribe aquí.
 Escribe aquí.
 
 ### 4. Qué representa una fila
-> Completa la frase: «Cada fila es…». ¿Qué campo distingue una fila de otra?
+> Un proyecto inmobiliario
 
 Cada fila es…
 
 ### 5. Periodo
-> ¿Qué fechas cubren los datos?
+> 2024-2025
 
 Escribe aquí.
 
