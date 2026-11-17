@@ -12,7 +12,7 @@ Equipo E__ · Análisis de Datos Básico · Estud-IA (Capa 2)
 Escribe aquí.
 
 ### 2. Pregunta principal
-> ¿Cuales son los principales factores que inciden en la disminución de las ventas inmobiliarias?
+> ¿Cuales son los principales factores que inciden en la disminución de la ventas de inmuebles?
 
 Escribe aquí.
 
