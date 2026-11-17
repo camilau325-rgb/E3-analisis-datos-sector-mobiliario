@@ -12,7 +12,7 @@ Equipo E__ · Análisis de Datos Básico · Estud-IA (Capa 2)
 Escribe aquí.
 
 ### 2. Pregunta principal
-> Una sola pregunta que ayude a tomar esa decisión.
+> Qué factores están asociados a la disminución de las ventas en el sector mobiliario y cómo se pueden identificar oportunidades de mejora a partir del análisis de los datos históricos?
 
 Escribe aquí.
 
