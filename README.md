@@ -8,19 +8,18 @@ Equipo E__ · Análisis de Datos Básico · Estud-IA (Capa 2)
 
 ### 1. Usuario y decisión
 ¿Quién usará el resultado (una persona o un área) y qué va a decidir con él?
+
+
 > Gerentes comerciales y directores de ventas de empresas constructoras en Medellín. Determinar si es necesario ajustar las estrategias comerciales, los precios y los incentivos de compra para mejorar las ventas de vivienda nueva.
-
-Escribe aquí.
-
 ### 2. Pregunta principal
+
+
 > ¿Cómo han evolucionado las ventas de vivienda en Medellín?
 
-Escribe aquí.
-
 ### 3. Fuente de datos
+
 > Muestra sintetica
 
-Escribe aquí.
 
 ### 4. Qué representa una fila
 > Un proyecto inmobiliario
@@ -28,9 +27,9 @@ Escribe aquí.
 Cada fila es…
 
 ### 5. Periodo
-> 2024-2025
 
-Escribe aquí.
+
+> 2024-2025
 
 ### 6. Cuatro indicadores
 > Nombre de cada indicador y, si ya puedes, cómo se calcula (qué se divide entre qué).
