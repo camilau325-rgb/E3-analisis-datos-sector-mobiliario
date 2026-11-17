@@ -1,4 +1,4 @@
-# Nombre del proyecto
+# Análisis de las causas de la disminución de ventas en el sector mobiliario
 
 Equipo E__ · Análisis de Datos Básico · Estud-IA (Capa 2)
 
