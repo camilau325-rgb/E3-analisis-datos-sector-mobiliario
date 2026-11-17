@@ -12,7 +12,7 @@ Equipo E__ · Análisis de Datos Básico · Estud-IA (Capa 2)
 Escribe aquí.
 
 ### 2. Pregunta principal
-> Qué factores están asociados a la disminución de las ventas en el sector mobiliario y cómo se pueden identificar oportunidades de mejora a partir del análisis de los datos históricos?
+> ¿Cuales son los principales factores que inciden en la disminución de las ventas inmobiliarias?
 
 Escribe aquí.
 
