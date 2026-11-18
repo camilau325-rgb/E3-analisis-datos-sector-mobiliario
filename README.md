@@ -34,15 +34,15 @@ Equipo E__ · Análisis de Datos Básico · Estud-IA (Capa 2)
 ### 6. Cuatro indicadores
 > Nombre de cada indicador y, si ya puedes, cómo se calcula (qué se divide entre qué).
 
-1. 
-2. 
-3. 
-4. 
+1. Variación
+2. Porcentaje
+3. Total de viviendas vendidas
+4. Tiempo promedio de venta
 
 ### 7. Fuera de alcance
 > Lo que este proyecto NO va a responder.
 
-Escribe aquí.
+Determinar las causas exactas de la disminución de las ventas de vivienda
 
 ## Si alcanzas hoy (para el jueves es obligatorio)
 
