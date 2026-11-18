@@ -24,7 +24,7 @@ Equipo E__ · Análisis de Datos Básico · Estud-IA (Capa 2)
 ### 4. Qué representa una fila
 
 
-> Un proyecto inmobiliario
+> Una vivienda
 
 ### 5. Periodo
 
