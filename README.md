@@ -49,20 +49,38 @@ Determinar las causas exactas de la disminución de las ventas de vivienda
 ### Dos comparaciones útiles
 > Por ejemplo: por mes, por comuna, por categoría.
 
-1. 
-2. 
+1. Comparación del precio promedio de venta por municipio
+Se analizaron los 281 inmuebles vendidos y se obtuvo lo siguiente:
+Municipio	Ventas	Precio promedio
+Envigado	43	$1.001.851.000
+Rionegro	51	$710.859.000
+Medellín	49	$638.925.000
+Sabaneta	56	$456.791.000
+Itagüí	46	$376.722.000
+Bello	36
+
+2.Comparación del precio promedio de venta según el tipo de inmueble
+Tipo de inmueble	Ventas	Precio promedio
+Casa	51	$997.339.000
+Apartamento No VIS	149	$627.318.000
+Apartamento VIS	81
 
 ### Tres riesgos de calidad
 > ¿Qué podría venir mal en los datos? ¿Qué harías si la fuente falla?
 
-1. 
-2. 
-3. 
+1. Datos incompletos: registros con fechas o precios vacíos.
+2. Datos incorrectos: fechas, valores o nombres mal escritos.
+3. Fallas en la fuente: pérdida de información o errores al cargar los datos; por eso, mantendríamos copias de seguridad y validaríamos los registros.
 
 ### Mapa de preguntas
 - ¿Qué pasó?
+  Identificar cuántas viviendas se vendieron y cuál fue el valor total de las ventas.
+  
 - ¿Dónde o cuándo es distinto?
+  Comparar las ventas por municipio y tipo de inmueble.
+  
 - ¿Qué recomendaría y con qué límites?
+Enfocar la atención en los municipios con mayor valor de ventas, teniendo en cuenta que el análisis depende de la calidad y disponibilidad de los datos.
 
 ## Archivos del proyecto
 
